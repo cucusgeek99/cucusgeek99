@@ -5,7 +5,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Backend**  
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 | Project | Stack | Description |
 |---|---|---|
