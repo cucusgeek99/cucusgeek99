@@ -32,15 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cucusgeek99&show_icons=true&hide_border=true&title_color=C0143C&icon_color=C0143C&text_color=1A1A2E&bg_color=ffffff&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cucusgeek99&layout=compact&hide_border=true&title_color=C0143C&text_color=1A1A2E&bg_color=ffffff&langs_count=6" />
-</p>
-
----
-
 ## 🚀 Selected Projects
 
 | Project | Stack | Description |
